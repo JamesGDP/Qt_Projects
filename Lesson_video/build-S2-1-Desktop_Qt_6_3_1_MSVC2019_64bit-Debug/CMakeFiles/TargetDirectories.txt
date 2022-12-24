@@ -1,0 +1,8 @@
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/S2-1.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/S2-1_autogen_timestamp_deps.dir
+D:/Programming/Qt Project/Lesson_video/build-S2-1-Desktop_Qt_6_3_1_MSVC2019_64bit-Debug/CMakeFiles/S2-1_autogen.dir
